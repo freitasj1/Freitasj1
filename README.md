@@ -3,6 +3,19 @@
 ###
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="60" height="40" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<h4 align="center">Tecnologias que estou aprendendo:</h4>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
@@ -15,15 +28,22 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=freitasj1.freitasj1&left_color=azure&right_color=aquamarine"  />
 </div>
 
 ###
 
-<img align="left" height="150" src="img\projete2021.jpeg"  />
+<p align="left">Tenho 16 anos e atualmente estou cursando eletrônica com especialização em telecomunicações na escola ETE FMC.</p>
+
+###
+
+<img align="left" height="200" src="img\projete2021.jpeg"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/freitasj1/freitasj1/output/snake.svg" alt="Snake animation" />
 
 ###
