@@ -28,7 +28,7 @@
 
 ###
 
-<img align="left" height="200" border-radius:20px; src="img\projete2021.jpeg"  />
+<img align="left" height="200" src="img\projete2021.jpeg"  />
 
 ###
 
@@ -38,6 +38,6 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/freitasj1/freitasj1/output/snake.svg" alt="Snake animation" />
 
 ###
