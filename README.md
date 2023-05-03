@@ -28,17 +28,11 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=freitasj1.freitasj1&left_color=azure&right_color=aquamarine"  />
-</div>
+<img align="left" height="200" width="200" src="img\projete2021.jpeg"  />
 
 ###
 
 <p align="left">Tenho 16 anos e atualmente estou cursando eletrônica com especialização em telecomunicações na escola ETE FMC.</p>
-
-###
-
-<img align="left" height="200" src="img\projete2021.jpeg"  />
 
 ###
 
