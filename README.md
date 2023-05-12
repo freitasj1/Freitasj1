@@ -1,4 +1,4 @@
-<h2 align="center">I'm João Pedro</h2>
+<!-- <h2 align="center">I'm João Pedro</h2>
 
 ###
 
@@ -40,4 +40,4 @@
 
 <img src="https://raw.githubusercontent.com/freitasj1/freitasj1/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
