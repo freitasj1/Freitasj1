@@ -44,7 +44,7 @@ class Eletrônica extends Desenvolvedor {
 </p>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="280px" max-width="280px" width="280px" align="right">
 
 <p align="left"> 
     Tenho 17 anos e atualmente estou cursando eletrônica com especialização em telecomunicações na escola ETE FMC, atualmente estou aprendendo novas tecnologias voltadas as áreas de IoT e Frontend. <br>
@@ -59,9 +59,9 @@ class Eletrônica extends Desenvolvedor {
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasj1&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasj1&theme=tokyonight&hide_langs_below=1"/>
 </div>
+<br>
+<br>
 
 <p align='center'>
 	<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=freitasj1&style=for-the-badge"/></a></p>
 </p>
-
-![snake gif](https://github.com/freitasj1/Freitasj1/blob/output/github-contribution-grid-snake.gif)
