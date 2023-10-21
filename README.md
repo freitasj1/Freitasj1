@@ -63,3 +63,5 @@ class Eletrônica extends Desenvolvedor {
 <p align='center'>
 	<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=freitasj1&style=for-the-badge"/></a></p>
 </p>
+
+![snake gif](https://github.com/freitasj1/Freitasj1/blob/output/github-contribution-grid-snake.gif)
