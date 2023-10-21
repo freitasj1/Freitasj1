@@ -59,3 +59,7 @@ class Eletrônica extends Desenvolvedor {
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasj1&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasj1&theme=tokyonight&hide_langs_below=1"/>
 </div>
+
+<p align='center'>
+	<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=freitasj1&style=for-the-badge"/></a></p>
+</p>
