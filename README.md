@@ -30,14 +30,14 @@ class Eletrônica extends Desenvolvedor {
 
 <p align="left">
   
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-maciel-freitas-9b2340253/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-maciel-freitas-9b2340253/" /></a>
 
 
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/freitas.j1" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/freitas.j1/"/></a>
 
-  <a href="#" alt="Email">
+  <a href="mailto:joaopedromacielfreitas@outlook.com" alt="Email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joaopedromacielfreitas@outlook.com" /></a>
 
   <img src="https://img.shields.io/static/v1?label=Overview&message=Freitasj1&color=f8efd4&style=for-the-badge&logo=GitHub">
