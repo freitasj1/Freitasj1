@@ -1,31 +1,28 @@
 ```js
 import Desenvolvedor from "Freitasj1";
 
-class SobreMim extends Desenvolvedor {
+class FormacaoAcademica extends Desenvolvedor {
   nome = "João Pedro Maciel Freitas";
-  area = "iniciando em backend e pouca experiência em frontend";
-  Estudos = "ETE FMC";
+  Instituição = "Escola técnica de eletrônica Francisco Moreira da Cotsa";
+  curso = "Telecomunicações";
+  início = "2022";
+  término = "2024";
   local = "Santa Rita do Sapucaí";
 }
 
-
 class Software extends Desenvolvedor {
-  linguagens = ["Html, Css, Javascript, Python,"];
-  frameworks = ["Flask, React"];
-  Projetos = ["Projeto HERO"];
+  linguagens = ["Html, Css, Javascript, Python, Git"];
+  frameworks = ["Bootstrap5, flask , React"];
+  Projetos = ["Projeto HERO", "WonderGame","projeto SIMTER"];
 }
 
 class IoT extends Desenvolvedor {
   linguagens = ["Wiring, Micropython"];
   Microcontroladores = ["Arduino UNO R3, Esp32, Esp8266"];
   módulos =["DFplayermini, l298N, HC-SR04, LM2596, TP4056, LCD1602"];
-  Projetos = ["Wonder Game, Projeto HERO"];
+  Projetos = ["Wonder Game", "Projeto HERO", "projeto SIMTER"];
 }
 
-class Eletrônica extends Desenvolvedor {
-  Disciplinas = ["Análise de circuitos, Eletrotécnica, Eletrônica básica, Eletricidade, Sistemas digitais, algoritmo"];
-  Circuitos = ["Driver a relé, pré-amplificador operacional, Fonte AC/DC "];
-}
 ```
 
 <p align="left">
@@ -47,7 +44,7 @@ class Eletrônica extends Desenvolvedor {
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="280px" max-width="280px" width="280px" align="right">
 
 <p align="left"> 
-    Tenho 17 anos e atualmente estou cursando eletrônica com especialização em telecomunicações na escola ETE FMC, atualmente estou aprendendo novas tecnologias voltadas as áreas de IoT e Frontend. <br>
+    Tenho 17 anos e atualmente estou cursando eletrônica com especialização em telecomunicações na escola ETE FMC, atualmente estou aprendendo novas tecnologias voltadas as áreas de IoT e cybersegurança. <br>
     Até o momento participei em 2 anos da feira de projetos PROJETE, com os projetos Wonder game e Projeto HERO, respectivamente. O projeto Wonder Game foi reconhecido como melhor projeto de educação de sua categoria. abaixo há 2 repositórios com mais detalhes sobre os projetos.
 </p>
 
@@ -55,7 +52,7 @@ class Eletrônica extends Desenvolvedor {
 ## ⭐ Informações sobre minha conta GitHub
 
 <div align="center">
-  <a href="https://github.com/otaviozordan">
+  <a href="https://github.com/freitasj1">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasj1&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasj1&theme=tokyonight&hide_langs_below=1"/>
 </div>
