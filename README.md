@@ -10,7 +10,7 @@ const skills = {
   },
   backend: {
     languages: ["Python", "JavaScript"],
-    frameworks: ["Node.js", "Express.js", "Flask"],
+    frameworks: ["Express.js", "Flask"],
     protocols: ["HTTP", "MQTT"]
   },
   IoT: {
