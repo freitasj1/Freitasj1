@@ -33,7 +33,7 @@ console.log(skills);
   <a href="https://www.instagram.com/freitas.j1" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/freitas.j1/"/></a>
 
-  <a href="mailto:joaopedromacielfreitas@outlook.com" alt="Email">
+  <a href="freitas.j2006@gmail.com" alt="Email">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joaopedromacielfreitas@outlook.com" /></a>
 
   <img src="https://img.shields.io/static/v1?label=Overview&message=Freitasj1&color=f8efd4&style=for-the-badge&logo=GitHub">
