@@ -52,8 +52,8 @@ console.log(skills);
 
 <div align="center">
   <a href="https://github.com/freitasj1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasj1&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasj1&theme=tokyonight&hide_langs_below=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasj1&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasj1&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 <br>
 <br>
