@@ -47,6 +47,7 @@ console.log(skills);
     Até o momento participei em 3 anos da feira de projetos PROJETE, com os projetos Wonder game, Projeto HERO e SIMTER, respectivamente. O projeto Wonder Game foi reconhecido como melhor projeto de educação de sua categoria. abaixo há 3 repositórios com mais detalhes sobre os projetos.
 </p>
 
+<br>
 
 ## ⭐ Informações sobre minha conta GitHub
 
@@ -87,7 +88,7 @@ console.log(skills);
 </p>  
   
 <h4 align='center'>
- Outras áres:
+ Outras áreas:
 </h4>
 <p align='center'> 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
