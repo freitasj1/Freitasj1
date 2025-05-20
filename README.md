@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU_ID_DO_LINKEDIN/" target="_blank">
+  <a href="www.linkedin.com/in/joaopedrofreitasm" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48px">
   </a>
   <a href="mailto:freitas.j2006@gmail.com">
