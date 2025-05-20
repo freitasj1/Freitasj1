@@ -22,8 +22,8 @@
 </p>
 
 <div align="center">
-  <a href="www.linkedin.com/in/joaopedrofreitasm" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48px">
+  <a href="https://www.linkedin.com/in/joaopedrofreitasm" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48px" style="margin-right: 20px;">
   </a>
   <a href="mailto:freitas.j2006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48px">
