@@ -1,51 +1,23 @@
-```js
-const skills = {
-  frontend: {
-    languages: ["HTML", "CSS"],
-    experience: {
-      react: "pouca experiência",
-      axios: true,
-      Bootstrap5: true
-    }
-  },
-  backend: {
-    languages: ["Python", "JavaScript"],
-    frameworks: ["Express.js", "Flask"],
-    protocols: ["HTTP", "MQTT"]
-  },
-  IoT: {
-    protocols: ["MQTT"],
-    languages: ["Wiring", "C"],
-    hardware: ["microcontroladores", "Single board computers"]
-  }
-};
+<div style="overflow: auto; width: 100%;">
+  <div style="float: left; margin-right: 20px;">
+    <ul>
+      <li>🛠️ <strong>Técnico em Eletrônica</strong> com ênfase em Telecomunicações pela <a href="https://www.etefmc.com.br">ETE FMC</a>.</li>
+      <li>🚀 Atualmente <strong>graduando em Engenharia de Computação</strong> no <a href="https://inatel.br/home/">INATEL</a>.</li>
+      <li>💡 Apaixonado por programação, já <strong>atuei em projetos nas áreas de</strong>: <strong>Data Science</strong>, <strong>Visão Computacional</strong>, <strong>Frontend</strong>, <strong>Cibersegurança</strong> e <strong>Desenvolvimento de Jogos</strong>.</li>
+      <li>💻 Foco e maior experiência em <strong>Backend</strong> e <strong>Sistemas Embarcados (Firmware)</strong>.</li>
+      <li>⚡ Experiência com <strong>Microcontroladores</strong> (família Espressif), <strong>Bare-metal</strong>, <strong>IoT</strong>, <strong>Bancos de Dados Relacionais</strong>, <strong>C++</strong> e <strong>Python</strong>.</li>
+      <li>🏆 Projetos de destaque em feiras: <strong>Wonder Game</strong>, <strong>Projeto HERO</strong> e <strong>SIMTER</strong> (repositórios no perfil!).</li>
+      <li>✨ Atualmente desenvolvendo projeto para a <a href="https://inatel.br/fetin/">FETIN - Feira Tecnológica do Inatel</a>.</li>
+      <li>📚 Estudando ativamente: <strong>STM32</strong>, <strong>Linguagem C</strong>, <strong>Linguagem Java</strong>, variantes do <strong>ESP32</strong>, <strong>Bluetooth Low Energy</strong> e <strong>FreeRTOS</strong>.</li>
+    </ul>
+  </div>
+  <div style="float: right;">
+    	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280px">
+	<img src="https://www.freepik.com/free-vector/circuit-board-isometric-concept_4027496.htm#fromView=keyword&page=1&position=0&uuid=f2620861-ec3c-40bc-be6f-0da4dd5272c6&query=Embedded+System" width="280px">
+  </div>
+</div>
+<div style="clear: both;"></div>
 
-console.log(skills);
-
-```
-
-<p align="left">
-  
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-maciel-freitas-9b2340253/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-maciel-freitas-9b2340253/" /></a>
-
-
-  <a href="https://www.instagram.com/freitas.j1" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/freitas.j1/"/></a>
-
-  <a href="freitas.j2006@gmail.com" alt="Email">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:joaopedromacielfreitas@outlook.com" /></a>
-
-  <img src="https://img.shields.io/static/v1?label=Overview&message=Freitasj1&color=f8efd4&style=for-the-badge&logo=GitHub">
-</p>
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="280px" max-width="280px" width="280px" align="right">
-
-<p align="left"> 
-    Tenho 18 anos e atualmente estou cursando eletrônica com especialização em telecomunicações na escola ETE FMC, atualmente estou aprendendo novas tecnologias voltadas as áreas de Backend e IoT. <br>
-    Até o momento participei em 3 anos da feira de projetos PROJETE, com os projetos Wonder game, Projeto HERO e SIMTER, respectivamente. O projeto Wonder Game foi reconhecido como melhor projeto de educação de sua categoria. abaixo há 3 repositórios com mais detalhes sobre os projetos.
-</p>
 
 <br>
 
@@ -60,43 +32,20 @@ console.log(skills);
 <br>
 
 <h2 align='center'>
- Tecnologias:
+ Tecnologias e Ferramentas:
 </h2>
-<h4 align='center'>
-   Um pouco mais experiente em:
-</h4>
-<p align='center'>
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<h4 align = 'center'> Backend e sistemas embarcados: </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,c,cpp,java" />
+  </a>
 </p>
-<h4 align='center'>
- ⚙️ Pouca experiência:
-</h4>
-<p align='center'>
-    
-  <br>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-</p>  
-  
-<h4 align='center'>
- Outras áreas:
-</h4>
-<p align='center'> 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />		
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" />	
+<h4 align = 'center'> Outros: </h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,postman,raspberrypi" />
+  </a>
 </p>
-
 
 <p align='center'>
 	<img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=freitasj1&style=for-the-badge"/></a></p>
