@@ -40,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/freitasj1">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=freitasj1&show_icons=true&theme=onedark"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luann2701&layout=compact&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=freitasj1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=freitasj1&layout=compact&theme=dracula"/>
   </a>
 </div>
 
