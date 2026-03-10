@@ -2,13 +2,18 @@
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
 
-- 🛠️ **Technical degree in Electronics** with focus on Telecommunications at [ETE FMC](https://www.etefmc.com.br).  
-- 🚀 Currently studying **Computer Engineering** at [INATEL](https://inatel.br/home/).  
-- 💻 My main focus is **Backend** and **Embedded Systems (Firmware)**.  
-- ⚡ Experience with **Microcontrollers** (Espressif family), **Bare-metal**, **IoT**, **Relational Databases**, **C++**, and **Python**.  
-- 🏆 I presented projects in school fairs: **Wonder Game**, **HERO Project** and **SIMTER** (repositories available!).  
-- ✨ I’m currently working on a new project for [FETIN - INATEL Technology Fair](https://inatel.br/fetin/).  
-- 📚 Topics I’m studying now: **STM32**, **C language**, **Java**, **ESP32 boards**, **Bluetooth Low Energy**, and **FreeRTOS**.
+- 🛠️ **Technical degree in Electronics** with focus on Telecommunications at ETE FMC.  
+- 🚀 Currently studying **Computer Engineering** at INATEL.   
+
+- ⚡ **Embedded Systems Experience:** C and C++ language, Espressif boards, STM32, Bare-metal and freeRTOS, BLE, and embedded communication protocols.  
+- 🌐 **Backend Experience:** Node.js, Python, relational databases and IoT integrations.
+
+- 🏆 I presented projects in technology fairs: **Wonder Game**, **HERO Project**, and **SIMTER**.  
+- 🥇 **SIMTER (Smart Industrial Monitoring for Temperature, Energy and Rotation)** is a completed project and received the **Technical Complexity Award** at the fair.
+
+- 🚀 Currently developing **MachineGuard** — a low-cost embedded predictive maintenance system for rotating machines based on vibration analysis using an ESP32-S3.
+
+- 📚 Currently studying and exploring topics such as **Edge Computing, Edge AI, Embedded DSP, Meshtastic networks**, and other technologies related to the MachineGuard project.
 
 ---
 
@@ -35,8 +40,8 @@
 
 <div align="center">
   <a href="https://github.com/freitasj1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=freitasj1&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freitasj1&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=freitasj1&show_icons=true&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Luann2701&layout=compact&theme=onedark"/>
   </a>
 </div>
 
@@ -46,7 +51,7 @@
 <h4 align = 'center'> Backend and Embedded Systems: </h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,c,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,c,cpp" />
   </a>
 </p>
 <h4 align = 'center'> Others: </h4>
