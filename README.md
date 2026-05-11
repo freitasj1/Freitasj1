@@ -1,22 +1,33 @@
-## **About me:**
+## About Me
 
 <img align='right' src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="280">
 
-- 🛠️ **Technical degree in Electronics** with focus on Telecommunications at ETE FMC.  
-- 🚀 Currently studying **Computer Engineering** at INATEL.   
+- 🛠️ Technical degree in Electronics with focus on Telecommunications at ETE FMC  
+- 🎓 Computer Engineering student at INATEL
 
-- ⚡ **Embedded Systems Experience:** C and C++ language, Espressif boards, STM32, Bare-metal and freeRTOS, BLE, and embedded communication protocols.  
-- 🌐 **Backend Experience:** Node.js, Python, relational databases and IoT integrations.
+- ⚡ Embedded Systems Experience:
+  - C / C++
+  - ESP32 / ESP-IDF
+  - STM32 / STM32CubeIDE
+  - nRF52840 / nRF Connect SDK
+  - FreeRTOS and bare-metal firmware
+  - Interface protocols
+  - Embedded communication protocols, Focusing on BLE
 
-- 🏆 I presented projects in technology fairs: **Wonder Game**, **HERO Project**, and **SIMTER**.  
-- 🥇 **SIMTER (Smart Industrial Monitoring for Temperature, Energy and Rotation)** is a completed project and received the **Technical Complexity Award** at the fair.
+- 🌐 Software & Backend:
+  - Python
+  - Node.js
+  - MySQL
+  - IoT integrations
 
-- 🚀 Currently developing **MachineGuard** — a low-cost embedded predictive maintenance system for rotating machines based on vibration analysis using an ESP32-S3.
+- 🚀 Currently developing **MachineGuard** — an embedded predictive maintenance platform for rotating machinery based on vibration analysis and edge processing using ESP32-S3 devices
 
-- 📚 Currently studying and exploring topics such as **Edge Computing, Edge AI, Embedded DSP, Meshtastic networks**, and other technologies related to the MachineGuard project.
-
----
-
+- 📡 Currently exploring:
+  - Embedded DSP
+  - Edge Computing and Edge AI
+  - LoRa Mesh Networks
+  - Meshtastic firmware modifications
+  - Low-power wireless embedded systems
 ## ✉️ Connect with me!
 
 <p align="center">
@@ -34,7 +45,7 @@
   </a>
 </div>
 
----
+
 
 ## ⭐ GitHub Info
 
@@ -44,7 +55,7 @@
     <!--<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=freitasj1&layout=compact&theme=onedark&hide=css,scss,html&langs_count=8"/> -->
 </div>
 
----
+
 
 <h2 align='center'>Technologies and Tools:</h2>
 <h4 align = 'center'> Backend and Embedded Systems: </h4>
@@ -60,7 +71,7 @@
   </a>
 </p>
 
----
+
 
 <p align='center'>
   <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=freitasj1&style=for-the-badge"/>
